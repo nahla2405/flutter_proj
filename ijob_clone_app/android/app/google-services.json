@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217485572593",
+    "project_id": "ijob-clone-app-7468c",
+    "storage_bucket": "ijob-clone-app-7468c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217485572593:android:d9f1b6186fc19f2fda6c50",
+        "android_client_info": {
+          "package_name": "nahla2405.ijob_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217485572593-dellu80iop5sqn8pneqe5m47h2an6mna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qJnSpLYWo21GQQx1zzRBN0cNpwWuWfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217485572593-dellu80iop5sqn8pneqe5m47h2an6mna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
